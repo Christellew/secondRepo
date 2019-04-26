@@ -1,0 +1,8 @@
+#Ignorer tous les fichiers Eclipse  et Maven (.project, target, etc) 
+
+Eclipse/Maven/**
+
+
+
+
+
